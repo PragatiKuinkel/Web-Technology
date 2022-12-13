@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Rubik+Puddles&display=swap');
+
+    h1{
+font-family: 'Rubik Puddles', cursive;
+      background-color: RosyBrown  ;
+      font-size:40px;
+      color:HoneyDew ;
+    }
+    p{
+      font-family: 'Covered By Your Grace', cursive;
+      background-color:MidnightBlue;
+      font-size:40px;
+      color:LightGoldenRodYellow;
+    }
