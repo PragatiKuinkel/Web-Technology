@@ -1,2 +1,2 @@
 # Web-Technology
-Weekly workshop of "Web Technology" from first semester 
+Weekly workshop of "Web Technology" from first semester.
